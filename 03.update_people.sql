@@ -1,1 +1,0 @@
-UPDATE PEOPLE WHERE(id = 10) SET(name = "Joao");
