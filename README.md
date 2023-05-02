@@ -8,4 +8,4 @@ Este projeto tem como objetivo aprender SQL, a linguagem dos bancos de dados
 
 ## Autor
 
-João Almeida
+João Almeida - @joaorsalmeida
