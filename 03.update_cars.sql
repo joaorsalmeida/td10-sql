@@ -1,0 +1,1 @@
+UPDATE cars WHERE(color = "blue") SET(color = "green");
